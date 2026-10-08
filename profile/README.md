@@ -45,9 +45,6 @@ Our public repositories will appear here as projects are released. Watch this sp
 ## 🤝 Get Involved
 
 - ⭐ Star and watch repositories you find useful
-- 🐛 Open an issue to report bugs or suggest improvements
-- 🔧 Submit a pull request. Contribution guidelines will live in each repository's `CONTRIBUTING.md`
-- 🔒 Found a security issue? Please report it privately via the repository's **Security** tab rather than opening a public issue
 
 ## 📬 Contact
 
