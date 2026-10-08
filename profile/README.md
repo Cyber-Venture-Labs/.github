@@ -50,7 +50,7 @@ Our public repositories will appear here as projects are released. Watch this sp
 
 - 🌐 Website: _coming soon_
 - ✉️ Email: _add contact address_
-- 💼 LinkedIn: _add link_
+- 💼 LinkedIn: https://www.linkedin.com/company/143960885
 
 ---
 
