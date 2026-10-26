@@ -27,6 +27,7 @@ Cyber Venture Labs is a venture studio focused on cybersecurity. We turn promisi
 
 | Area | What it covers |
 | --- | --- |
+| 🤖 Security research on emerging technology | AI/ML security, LLM and agent threat modeling, quantum-safe cryptography, IoT/OT and connected-device security, blockchain and Web3, and other early-stage technologies where security practice is still taking shape. |
 | 🔐 Product & Application Security | Secure design, vulnerability management, and response |
 | 📊 Data & Cloud Security | Protecting data pipelines and cloud-native systems |
 | 🤖 Security Automation | Tooling that reduces manual effort in detection and response |
